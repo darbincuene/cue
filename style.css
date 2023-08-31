@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(35, 124, 162);
+}
+header{
+    background-color: brown;
+    width: 100%;
+    text-align: center;
+}
+nav{
+    background-color: blueviolet;
+    width: 100%;
+    height: 50px;
+
+}
+
+nav{
+    color: aqua;
+    list-style: none;
+    display: flex;
+    flex-direction:row;
+    justify-content: center; 
+}
+
+nav button {
+    background-color: aqua;
+    /*border:none;¨*/
+    margin: 10px;
+}
+section{
+    background-color:green;
+    width: 50%;
+    height: 400px;
+}
+aside{
+    background-color: aqua;
+    width: 48%;
+    height: 400px;
+    position: absolute;
+    top: 14%;
+    left:51%;
+}
+footer{
+    background-color: rgb(10, 144, 61);
+    width: 100%;
+    height: 200px;
+
+}
+footer

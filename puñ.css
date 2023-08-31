@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(204, 196, 212);
+}
+.tabla{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+.tabla,th,td{
+    border: 3px solid black;
+    padding: 20px;
+}
+.nombre{
+    background-color: azure;
+}
+.edad{
+    background-color: azure;
+}
+.genero{
+    background-color: azure;
+}
+
+/*.p {
+   background-color: aqua;
+   height: 80;
+   text-align: center;
+
+}
+.c{
+    background-color: brown;
+    
+}
+.a{
+    background-color: bisque;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.contenedor{
+
+    display: flex;
+    flex-direction: row;
+
+}
+*/
+
+
